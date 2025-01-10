@@ -1,0 +1,5 @@
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.csproj.AssemblyReference.cache
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.AssemblyInfoInputs.cache
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.AssemblyInfo.cs
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.csproj.CoreCompileInputs.cache

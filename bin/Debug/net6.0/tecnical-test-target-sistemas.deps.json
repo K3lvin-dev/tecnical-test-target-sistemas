@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tecnical-test-target-sistemas/1.0.0": {
+        "runtime": {
+          "tecnical-test-target-sistemas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tecnical-test-target-sistemas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

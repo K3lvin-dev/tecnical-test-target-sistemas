@@ -1,5 +1,15 @@
-C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.csproj.AssemblyReference.cache
 C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.AssemblyInfoInputs.cache
 C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.AssemblyInfo.cs
 C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\bin\Debug\net6.0\tecnical-test-target-sistemas.exe
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\bin\Debug\net6.0\tecnical-test-target-sistemas.deps.json
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\bin\Debug\net6.0\tecnical-test-target-sistemas.runtimeconfig.json
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\bin\Debug\net6.0\tecnical-test-target-sistemas.dll
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\bin\Debug\net6.0\tecnical-test-target-sistemas.pdb
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.sourcelink.json
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.dll
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\refint\tecnical-test-target-sistemas.dll
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.pdb
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\tecnical-test-target-sistemas.genruntimeconfig.cache
+C:\Users\kelvi\Documents\tecnical-test-target-sistemas\obj\Debug\net6.0\ref\tecnical-test-target-sistemas.dll
